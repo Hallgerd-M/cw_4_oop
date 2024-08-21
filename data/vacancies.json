@@ -1,0 +1,16 @@
+[
+    {
+        "id": "105338726",
+        "name": "Junior Python developer",
+        "salary": {
+            "from": null,
+            "to": 800,
+            "currency": "USD",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/105338726",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Создание скриптов на <highlighttext>Python</highlighttext> для автоматизации тестирования блокчейн и инфраструктурных проектов."
+    }
+]
