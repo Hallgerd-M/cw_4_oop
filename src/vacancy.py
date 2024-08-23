@@ -39,10 +39,10 @@ class Vacancy:
         return self.__id
 
     def __str__(self) -> str:
-        self.salary_valid()
+        self.__salary_valid()
         return f"Вакансия номер {self.get_id} '{self.name}' c зарплатой {self.salary}.\nСсылка на вакансию: {self.url}\nОпыт работы: {self.experience}. Занятость: {self.employment}.\nОписание: {self.description}.\n"
 
-    def salary_valid(self) -> Any:
+    def __salary_valid(self) -> Any:
         """Метод для валидации данных по зарплате"""
         if self.salary is None:
             self.salary = "(не указана)"
