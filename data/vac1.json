@@ -1663,30 +1663,332 @@
         "description": "Работа в команде, над общим проектом. Написание программного кода на языке <highlighttext>python</highlighttext>. Разработка как backend-а так и frontend-a. "
     },
     {
-        "id": "106077197",
-        "name": "Программист JavaScript",
+        "id": "106135488",
+        "name": "Python Backend Developer",
         "salary": null,
-        "url": "https://hh.ru/vacancy/106077197",
-        "experience": "От 1 года до 3 лет",
+        "url": "https://hh.ru/vacancy/106135488",
+        "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
-        "description": "Разработка и рефакторинг frontend части ProdTrack, связанных с ней сервисов. Разработка нового функционала, важного для производства анимации. Правки приложения необходимые..."
+        "description": "Разрабатывать и сопровождать backend-приложения и сервисы, используя Python 3 в качестве основного языка программирования (мы используем FastApi/<highlighttext>Django</highlighttext>). "
     },
     {
-        "id": "105380107",
-        "name": "Программист Python Django",
+        "id": "106289062",
+        "name": "Python разработчик",
         "salary": null,
-        "url": "https://hh.ru/vacancy/105380107",
-        "experience": "От 1 года до 3 лет",
+        "url": "https://hh.ru/vacancy/106289062",
+        "experience": "От 3 до 6 лет",
         "employment": "Полная занятость",
-        "description": "Разработка инструментов для помощи трейдерам. Построение взаимодействия с торговым роботом через API, анализ сопутствующей документации. Взаимодействие с frontend разработчиками. "
+        "description": "Разработка внутренних инструментов и админок для отдела подключения и контроля базы источников. Создание backend админок. Проектирование и разработка внутренних инструментов. "
     },
     {
-        "id": "105882189",
-        "name": "Младший python разработчик",
-        "salary": null,
-        "url": "https://hh.ru/vacancy/105882189",
+        "id": "104932854",
+        "name": "Middle Python разработчик",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/104932854",
         "experience": "От 1 года до 3 лет",
         "employment": "Полная занятость",
-        "description": "Разработка сервисов вокруг генеративной модели исскуственного интеллекта. Участие в разработке frontend решения на основе современных генеративных моделей. Поддержка и оптимизация..."
+        "description": "Разработка backend части программного обеспечения. Поддержка текущих проектов и развитие новых. Разработка и поддержка микросервисов. Проектирование архитектуры сервисов и их..."
+    },
+    {
+        "id": "106040532",
+        "name": "Backend Python Developer",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/106040532",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и поддержка backend части веб-приложений. Проектирование и реализация REST API. Оптимизация производительности и масштабируемости сервисов. Работа с базами..."
+    },
+    {
+        "id": "106021415",
+        "name": "Python Middle+ Developer",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/106021415",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Участие в проектировании и реализации архитектуры backend-части. Написание качественного, тестируемого и документированного кода. Разработка RESTful API. Интеграция с различными..."
+    },
+    {
+        "id": "104896344",
+        "name": "Разработчик Python",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/104896344",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка backend на <highlighttext>Django</highlighttext>. Разработка REST сервисов. Разработка async сервисов. Разработка клиентов для работы со сторонними API. Написание unit тестов. "
+    },
+    {
+        "id": "105724706",
+        "name": "Backend-разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105724706",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и поддержка backend-сервисов на Python 3 с использованием HTTP/gRPC/AMQP интерфейсов. Проектирование и разработка моделей данных предметной..."
+    },
+    {
+        "id": "105892567",
+        "name": "Python Developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105892567",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка backend, API на Python, ML. - Linux / Docker / Kubernetes. - Базы данных."
+    },
+    {
+        "id": "103885193",
+        "name": "Backend-разработчик (Python)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/103885193",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка backend и API в проектах по созданию аналитических систем и систем поддержки принятия решений в области логистики на ЖД. "
+    },
+    {
+        "id": "105755670",
+        "name": "Web-разработчик (Junior)",
+        "salary": {
+            "from": 45000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/105755670",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Реализовывать быстрые адаптивные интерфейсы по макетам. Работать над серверной частью веб-проектов. Взаимодействовать с дизайнерами, backend-разработчиками. Активно участвовать в..."
+    },
+    {
+        "id": "104833774",
+        "name": "Python-разработчик (Django, FastAPI)",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/104833774",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и редактирование backend части (<highlighttext>Django</highlighttext>, FastAPI) для работы web-приложения. Документирование созданного API в Wiki проекта. Разработка интеграции с..."
+    },
+    {
+        "id": "104421231",
+        "name": "Backend-разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/104421231",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Реализация backend-задач согласно техническому заданию: реализация новых и модификация существующих web-страниц."
+    },
+    {
+        "id": "106003898",
+        "name": "Middle Backend Developer Python",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/106003898",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Backend: <highlighttext>Django</highlighttext>, DRF, Celery, Selenium. Поддержкой и доработкой текущей версией backend’a продукта (<highlighttext>Django</highlighttext>). Разбиением монолита на микросервисы (<highlighttext>Django</highlighttext>/FastAPI). "
+    },
+    {
+        "id": "105385075",
+        "name": "Python developer (Дашборд)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105385075",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и поддержка backend части. Оптимизация работы сервиса по результатам нагрузочного тестирования."
+    },
+    {
+        "id": "105930065",
+        "name": "Python BackEnd developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105930065",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
+    },
+    {
+        "id": "105930051",
+        "name": "Python BackEnd developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105930051",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
+    },
+    {
+        "id": "106093382",
+        "name": "Middle Backend Developer (Django/Celery/Redis) AND Middle Mobile Developer React Native",
+        "salary": {
+            "from": 350000,
+            "to": 500000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/106093382",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и поддержка backend на Python (<highlighttext>Django</highlighttext>/Celery/Redis или Memcache). Интеграция с внешними сервисами и API. Оптимизация производительности и..."
+    },
+    {
+        "id": "105930143",
+        "name": "Python BackEnd developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105930143",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
+    },
+    {
+        "id": "105930028",
+        "name": "Python BackEnd developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105930028",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Наш стек backend: python 3.8, <highlighttext>Django</highlighttext>, fastapi, pydantic, numpy, scipy, tinydb, mongodb, unittest. Используем ruff, ruff format, mypy для..."
+    },
+    {
+        "id": "105743285",
+        "name": "Senior Python/Django разработчик",
+        "salary": {
+            "from": 3200,
+            "to": 4000,
+            "currency": "USD",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/105743285",
+        "experience": "Более 6 лет",
+        "employment": "Полная занятость",
+        "description": "Принимать активное участие в разработке продуктов компании в команде в качестве backend-разработчика. Разрабатывать новые и поддерживать старые \"фичи\". "
+    },
+    {
+        "id": "92116169",
+        "name": "Python разработчик",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/92116169",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Проектировать отказоустойчивые технические решений. Разрабатывать высоконагруженные микросервисы по задачам платформы backend. Не только писать код, но и отвечать за него..."
+    },
+    {
+        "id": "94919177",
+        "name": "Middle python developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/94919177",
+        "experience": "От 1 года до 3 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка backend для мобильных приложений в сфере e-commerce. Full-stack разработка web приложения для администрирования онлайн-магазина заказчика. "
+    },
+    {
+        "id": "104585732",
+        "name": "Middle Python developer на продукт Data Quality (Big Data)",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/104585732",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разрабатывать backend основного сервиса DQ CORE, вспомогательных сервисов (Профилировщик данных, Дата Контракты) и прикладные библиотеки для анализа качества данных. "
+    },
+    {
+        "id": "104794390",
+        "name": "Senior Backend Python разработчик",
+        "salary": {
+            "from": 20000000,
+            "to": 25000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://hh.ru/vacancy/104794390",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Написание читаемого, тестируемого и эффективного кода. - Разработка backend на Python <highlighttext>Django</highlighttext>. - Разработка микросервисных решений. - Интеграции с различными внешними системами. - "
+    },
+    {
+        "id": "105166142",
+        "name": "Python Developer Middle+",
+        "salary": {
+            "from": 10000000,
+            "to": 15000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://hh.ru/vacancy/105166142",
+        "experience": "От 3 до 6 лет",
+        "employment": "Проектная работа",
+        "description": "Реализацией новых проектов, продуктов и поддержкой существующих. Разработкой backend для веб-сервисов и мобильных приложений (rest). Отдавать на ревью свой..."
+    },
+    {
+        "id": "104478653",
+        "name": "Middle Django (DRF) backend developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/104478653",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и поддержка backend составляющей веб-приложения. - Рефакторинг и оптимизация существующего кода. - Интеграция приложения с другими сервисами. - Покрытие кодовой базы..."
+    },
+    {
+        "id": "98964007",
+        "name": "Python developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/98964007",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разрабатывать backend на Python. Написание программных модулей, облегчающих решение типовых задач обработки данных. Code review, обеспечение качества кода."
+    },
+    {
+        "id": "105658142",
+        "name": "Middle/Middle+ Frontend Developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105658142",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "development of user interfaces using React 18+ and integration with backend APIs. - close collaboration with PM, Dev team, QA..."
+    },
+    {
+        "id": "105272931",
+        "name": "Senior Python Developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/105272931",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Проектирование и разработка backend-микросервисов (Python + JS). Внедрение различных алгоритмов. Поддержка и рефакторинг legacy-сервисов. Написание скриптов/ботов для..."
+    },
+    {
+        "id": "101334732",
+        "name": "Middle Python Developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/101334732",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка программного обеспечения (backend) для финтех, сопровождение и доработка текущих проектов."
+    },
+    {
+        "id": "103114641",
+        "name": "Middle Django(DRF) backend developer",
+        "salary": null,
+        "url": "https://hh.ru/vacancy/103114641",
+        "experience": "От 3 до 6 лет",
+        "employment": "Полная занятость",
+        "description": "Разработка и поддержка backend составляющей веб-приложения. - Рефакторинг и оптимизация существующего кода. - Интеграция приложения с другими сервисами. - Покрытие кодовой базы..."
     }
 ]

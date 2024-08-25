@@ -43,6 +43,9 @@ class WorkWithJson(WorkWithFiles):
                     new_json.append(item)
         with open(self.__file_name, "w", encoding="utf-8") as f:
             json.dump(new_json, f, ensure_ascii=False, indent=4)
+        with open(self.__file_name, encoding="utf-8") as f:
+            filtered_vacancies = json.load(f)
+        return filtered_vacancies
 
     def delete_from_json(self, id_list: List) -> None:
         """Метод удалят ваканчию по заданному списку id"""
